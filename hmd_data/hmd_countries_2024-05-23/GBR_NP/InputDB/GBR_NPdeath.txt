@@ -1,0 +1,2 @@
+PopName,Area,Year,YearReg,YearInterval,Sex,Age,AgeInterval,Lexis,RefCode,Access,Deaths,NoteCode1,NoteCode2,NoteCode3,LDB
+GBR_NP,01,.,.,.,.,.,.,.,.,.,.,.,.,.,1

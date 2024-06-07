@@ -1,0 +1,2 @@
+PopName,Area,Sex,Age,AgeInterval,Type,Day,Month,Year,RefCode,Access,Population,NoteCode1,NoteCode2,NoteCode3,LDB
+GBR_NP,01,.,.,.,.,.,.,.,.,.,.,.,.,.,1
